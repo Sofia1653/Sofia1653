@@ -23,6 +23,7 @@
 ![Django](https://img.shields.io/badge/Django-000000?style=for-the-badge&logo=django&logoColor=FF69B4)
 ![Spring](https://img.shields.io/badge/Spring-000000?style=for-the-badge&logo=spring&logoColor=FF69B4)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-000000?style=for-the-badge&logo=tailwindcss&logoColor=FF69B4)
+![React](https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=FF69B4)
 
 ### 🛠 Ferramentas
 ![Figma](https://img.shields.io/badge/Figma-000000?style=for-the-badge&logo=figma&logoColor=FF69B4)
@@ -34,6 +35,8 @@
 
 ### 🗃 Banco de Dados
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logo=postgresql&logoColor=FF69B4)
+![MySQL](https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=FF69B4)
+
 
 ---
 
