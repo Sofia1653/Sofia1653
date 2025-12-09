@@ -1,6 +1,4 @@
-<div align="center">
-  ![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&size=32&duration=3500&pause=1000&color=FF69B4&center=true&vCenter=true&width=600&lines=Sofia+Gomes+Ten%C3%B3rio;)
-</div>
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&size=32&duration=3500&pause=1000&color=FF69B4&center=true&vCenter=true&width=600&lines=Sofia+Gomes+Ten%C3%B3rio;)
 
 ---
 
@@ -43,20 +41,3 @@
 ## 📊 GitHub Stats
 
 ![Sofia GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Sofia1653&show_icons=true&theme=dracula)
-
-![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Sofia1653&theme=dracula)
-
-<table align="center">
-  <tr>
-    <td>
-      <img 
-        src="https://github-readme-stats-sigma-five.vercel.app/api?username=Sofia1653&show_icons=true&bg_color=000000&title_color=FF69B4&text_color=FFFFFF&icon_color=FF69B4&border_color=FF69B4&hide_border=true&card_width=300"
-      />
-    </td>
-    <td>
-      <img 
-        src="https://github-readme-activity-graph.vercel.app/graph?username=Sofia1653&theme=dracula&area=true&hide_title=true&radius=10"
-      />
-    </td>
-  </tr>
-</table>
