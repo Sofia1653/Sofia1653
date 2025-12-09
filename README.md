@@ -1,9 +1,6 @@
 <h1 align="center">
-  Sofia Gomes Tenório
+  ![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&size=32&duration=3500&pause=1000&color=FF69B4&center=true&vCenter=true&width=600&lines=Sofia+Gomes+Ten%C3%B3rio;)
 </h1>
-
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&size=32&duration=3500&pause=1000&color=FF69B4&center=true&vCenter=true&width=600&lines=Sofia+Gomes+Ten%C3%B3rio;)
-
 
 ---
 
@@ -45,6 +42,6 @@
 
 ## 📊 GitHub Stats
 
-![Sofia GitHub stats](https://github-readme-stats.vercel.app/api?username=Sofia1653&show_icons=true&theme=dracula)
+![Sofia GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Sofia1653&show_icons=true&theme=dracula)
 
 ![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Sofia1653&theme=dracula)
