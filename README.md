@@ -2,6 +2,9 @@
   Sofia Gomes Tenório
 </h1>
 
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&size=32&duration=3500&pause=1000&color=FF69B4&center=true&vCenter=true&width=600&lines=Sofia+Gomes+Ten%C3%B3rio;)
+
+
 ---
 
 ## 🌐 Redes Sociais
@@ -42,15 +45,6 @@
 
 ## 📊 GitHub Stats
 
-<table>
-  <tr align="center">
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=Sofia1653&theme=transparent&bg_color=000000&border_color=FF69B4&show_icons=true&icon_color=FF69B4&title_color=FF69B4&text_color=ffffff" />
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sofia1653&layout=compact&bg_color=000000&border_color=FF69B4&title_color=FF69B4&text_color=ffffff" />
-    </td>
-  </tr>
-</table>
+![Sofia GitHub stats](https://github-readme-stats.vercel.app/api?username=Sofia1653&show_icons=true&theme=dracula)
 
-
+![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Sofia1653&theme=dracula)
