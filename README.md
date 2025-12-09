@@ -41,21 +41,3 @@
 ## 📊 GitHub Stats
 
 ![Sofia GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Sofia1653&show_icons=true&theme=dracula)
-
-<table>
-  <tr>
-    <td align="center">
-      <img 
-           height="180em"
-           src="https://github-readme-stats.vercel.app/api?username=Sofia1653&show_icons=true&theme=dracula&hide_border=true&title_color=FF69B4&icon_color=FF69B4&text_color=ffffff" 
-      />
-    </td>
-    <td align="center">
-      <img 
-           height="180em"
-           src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sofia1653&layout=compact&theme=dracula&hide_border=true&title_color=FF69B4&text_color=ffffff" 
-      />
-    </td>
-  </tr>
-</table>
-
