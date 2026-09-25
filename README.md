@@ -6,7 +6,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=FF69B4&height=120&section=header"/>
 </p>
 
-<h2 align="center">👩🏻‍💻 Oi, eu sou a Sofia!</h2>
+<h2 align="center">👩🏻‍💻 Oi, eu sou Sofia!</h2>
 
 <p align="center">
   Desenvolvedora Full Stack em formação, apaixonada por tecnologia,
@@ -77,8 +77,15 @@
 ## 📊 GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sofia1653&show_icons=true&theme=radical&hide_border=true&title_color=FF69B4&icon_color=FF69B4&text_color=FFFFFF&bg_color=0D1117" height="180em"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sofia1653&layout=compact&theme=radical&hide_border=true&title_color=FF69B4&text_color=FFFFFF&bg_color=0D1117" height="180em"/>
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=Sofia1653&show_icons=true&theme=radical&hide_border=true&title_color=FF69B4&icon_color=FF69B4&text_color=FFFFFF&bg_color=0D1117"
+    height="180em"
+  />
+
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sofia1653&layout=compact&theme=radical&hide_border=true&title_color=FF69B4&text_color=FFFFFF&bg_color=0D1117"
+    height="180em"
+  />
 </p>
 
 ---
@@ -86,7 +93,20 @@
 ## 🐍 Minhas contribuições
 
 <p align="center">
-  <img src="./github-snake.svg" alt="GitHub Contribution Snake" />
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/Sofia1653/Sofia1653/output/github-snake-dark.svg"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/Sofia1653/Sofia1653/output/github-snake.svg"
+    />
+    <img
+      src="https://raw.githubusercontent.com/Sofia1653/Sofia1653/output/github-snake.svg"
+      alt="GitHub Contribution Snake"
+    />
+  </picture>
 </p>
 
 ---
