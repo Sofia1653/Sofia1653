@@ -73,6 +73,15 @@
 
 ---
 
+# 👩‍💻 Contributions
+
+<div align="center">
+  <img
+    src="https://streak-stats.demolab.com/?user=Sofia1653&theme=dark&background=0D1117&ring=FF69B4&fire=FF69B4&currStreakLabel=FF69B4&sideLabels=FF69B4&dates=AAAAAA&hide_border=true"
+    alt="GitHub Streak Stats"
+  />
+</div>
+
 <div align="center">
 
 ### 💗 Thanks for visiting my profile!
