@@ -13,7 +13,7 @@
 
 ## 👩🏻‍💻 Sobre mim
 
-🎓 Estudante de **Tecnologia da Informação**
+🎓 Estudante de **Ciência da Computação**
 
 💻 Tenho interesse em **desenvolvimento Full Stack**, explorando tanto Frontend quanto Backend.
 
